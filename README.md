@@ -1,4 +1,4 @@
-# Sport Rec
+# Sport Recommend System
 
 <img width="1210" alt="image" src="https://user-images.githubusercontent.com/76480887/220229996-1cdb3e7a-0922-4876-88fd-cf2a6e290280.png">
 
