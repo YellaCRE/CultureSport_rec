@@ -8,7 +8,7 @@
 
 # Model
 
-![스포츠 drawio](https://user-images.githubusercontent.com/76480887/223596366-365af8a4-db20-4168-b250-6cf5d19da5df.png)
+![스포츠 drawio](https://user-images.githubusercontent.com/76480887/223597297-564904ff-8df8-4b01-8e26-86881987a01d.png)
 
 # Results
 
